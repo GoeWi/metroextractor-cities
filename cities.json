@@ -1206,6 +1206,14 @@
                         "right": "8.816"
                     }
                 },
+                "stuttgart_germany": {
+                    "bbox": {
+                        "top": "49.976",
+                        "left": "8.363",
+                        "bottom": "48.463",
+                        "right": "8.364"
+                    }
+                },
                 "lausanne_switzerland": {
                     "bbox": {
                         "top": "46.587",
